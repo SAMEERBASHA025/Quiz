@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "quiz.api",
+      "type": "com.example.quizleaderboard.config.LeaderboardProperties",
+      "sourceType": "com.example.quizleaderboard.config.LeaderboardProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "quiz.api.base-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.quizleaderboard.config.LeaderboardProperties"
+    },
+    {
+      "name": "quiz.api.messages-path",
+      "type": "java.lang.String",
+      "sourceType": "com.example.quizleaderboard.config.LeaderboardProperties"
+    },
+    {
+      "name": "quiz.api.poll-count",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.quizleaderboard.config.LeaderboardProperties"
+    },
+    {
+      "name": "quiz.api.poll-delay-ms",
+      "type": "java.lang.Long",
+      "sourceType": "com.example.quizleaderboard.config.LeaderboardProperties"
+    },
+    {
+      "name": "quiz.api.reg-no",
+      "type": "java.lang.String",
+      "sourceType": "com.example.quizleaderboard.config.LeaderboardProperties"
+    },
+    {
+      "name": "quiz.api.submit-path",
+      "type": "java.lang.String",
+      "sourceType": "com.example.quizleaderboard.config.LeaderboardProperties"
+    }
+  ],
+  "hints": []
+}

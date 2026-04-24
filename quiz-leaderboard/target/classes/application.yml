@@ -1,0 +1,8 @@
+quiz:
+  api:
+    base-url: ${QUIZ_BASE_URL:https://devapigw.vidalhealthtpa.com/srm-quiz-task}
+    messages-path: /quiz/messages
+    submit-path: /quiz/submit
+    reg-no: ${QUIZ_REG_NO:2024CS101}
+    poll-count: 10
+    poll-delay-ms: 5000

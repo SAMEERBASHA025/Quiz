@@ -1,0 +1,11 @@
+com\example\quizleaderboard\model\QuizEvent.class
+com\example\quizleaderboard\service\LeaderboardService.class
+com\example\quizleaderboard\config\LeaderboardProperties.class
+com\example\quizleaderboard\service\ExternalQuizApiClient.class
+com\example\quizleaderboard\service\LocalMockQuizApiController.class
+com\example\quizleaderboard\model\LeaderboardSubmission.class
+com\example\quizleaderboard\config\AppConfig.class
+com\example\quizleaderboard\QuizLeaderboardApplication.class
+com\example\quizleaderboard\service\ApiInfoController.class
+com\example\quizleaderboard\model\LeaderboardEntry.class
+com\example\quizleaderboard\service\PollingOrchestrator.class
